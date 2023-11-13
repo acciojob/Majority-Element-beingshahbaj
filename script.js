@@ -1,5 +1,5 @@
-
-function findMajorityElement(arr) {
+  
+function findMajorityElement(arr){
   let candidate;
   let count = 0;
 
@@ -29,7 +29,7 @@ function findMajorityElement(arr) {
   } else {
    
    
-    return -1;  of a majority element in another way.
+    return -1; 
   }
 }
 
